@@ -1,0 +1,187 @@
+"group","family","genus","species","sub.var"
+"native","Aizoaceae","Tetragonia","tetragonioides",NA
+"native","Amaranthaceae","Alternanthera","denticulata",NA
+"native","Apiaceae","Apium","prostratum","var. filiforme"
+"native","Apiaceae","Centella","asiatica",NA
+"native","Apiaceae","Hydrocotyle","hirta",NA
+"native","Apiaceae","Lilaeopsis","polyantha",NA
+"native","Apocynaceae","Alyxia","buxifolia",NA
+"native","Apocynaceae","Parsonsia","straminea",NA
+"native","Apocynaceae","Marsdenia","rostrata",NA
+"native","Apocynaceae","Asplenium","flabellifolium",NA
+"native","Apocynaceae","Asplenium","obtusatum",NA
+"native","Apocynaceae","Centipeda","minima","subsp. minima"
+"native","Apocynaceae","Cotula","australis",NA
+"native","Apocynaceae","Cotula","coronopifolia",NA
+"native","Apocynaceae","Ozothamnus","diosmifolius",NA
+"native","Apocynaceae","Pseudognaphalium","luteoalbum",NA
+"native","Apocynaceae","Senecio","minimus",NA
+"native","Callitrichaceae","Callitriche","sonderi",NA
+"native","Campanulaceae","Wahlenbergia","gracilis",NA
+"native","Campanulaceae","Wahlenbergia","stricta",NA
+"native","Caryophyllaceae","Spergularia","marina",NA
+"native","Centrolepidaceae","Centrolepis","strigosa",NA
+"native","Centrolepidaceae","Atriplex","australasica",NA
+"native","Centrolepidaceae","Chenopodium","glaucum",NA
+"native","Centrolepidaceae","Einadia","hastata",NA
+"native","Centrolepidaceae","Einadia","nutans","subsp. nutans"
+"native","Centrolepidaceae","Einadia","trigonos","subsp. trigonos"
+"native","Centrolepidaceae","Enchylaena","tomentosa",NA
+"native","Centrolepidaceae","Rhagodia","candolleana","subsp. candolleana"
+"native","Commelinaceae","Commelina","cyanea",NA
+"native","Convolvulaceae","Dichondra","repens",NA
+"native","Crassulaceae","Crassula","peduncularis",NA
+"native","Crassulaceae","Crassula","sieberiana",NA
+"native","Cyatheaceae","Cyathea","australis",NA
+"native","Cyperaceae","Carex","appressa",NA
+"native","Cyperaceae","Cyperus","brevifolius",NA
+"native","Cyperaceae","Cyperus","gracilis",NA
+"native","Cyperaceae","Isolepis","cernua",NA
+"native","Cyperaceae","Isolepis","inundata",NA
+"native","Cyperaceae","Isolepis","nodosa",NA
+"native","Cyperaceae","Lipocarpha","microcephala",NA
+"native","Cyperaceae","Pycreus","polystachyos",NA
+"native","Dennstaedtiaceae","Histiopteris","incisa",NA
+"native","Dennstaedtiaceae","Hypolepis","amaurorachis",NA
+"native","Dennstaedtiaceae","Pteridium","esculentum",NA
+"native","Dicksoniaceae","Calochlaena","dubia",NA
+"native","Elatinaceae","Elatine","gratioloides",NA
+"native","Euphorbiaceae","Breynia","cernua",NA
+"native","Fabaceae","Acacia","longifolia","var. sophorae"
+"native","Fabaceae","Glycine","microphylla",NA
+"native","Fabaceae","Kennedia","rubicunda",NA
+"native","Geraniaceae","Pelargonium","australe",NA
+"native","Hypoxidaceae","Hypoxis","hygrometrica",NA
+"native","Juncaceae","Juncus","bufonius",NA
+"native","Juncaceae","Juncus","pallidus",NA
+"native","Juncaceae","Juncus","pauciflorus",NA
+"native","Juncaceae","Juncus","usitatus",NA
+"native","Juncaceae","Juncus","vaginatus",NA
+"native","Juncaginaceae","Triglochin","striata",NA
+"native","Lamiaceae","Plectranthus","graveolens",NA
+"native","Lamiaceae","Westringia","fruticosa",NA
+"native","Lobeliaceae","Isotoma","axillaris",NA
+"native","Lobeliaceae","Lobelia","alata",NA
+"native","Lomandraceae","Lomandra","longifolia",NA
+"native","Menispermaceae","Stephania","japonica","var. discolor"
+"native","Oxalidaceae","Oxalis","corniculata",NA
+"native","Phormiaceae","Dianella","longifolia",NA
+"native","Poaceae","Agrostis","avenacea","var. avenacea"
+"native","Poaceae","Austrostipa","stipoides",NA
+"native","Poaceae","Echinopogon","ovatus",NA
+"native","Poaceae","Entolasia","marginata",NA
+"native","Poaceae","Eragrostis","leptostachya",NA
+"native","Poaceae","Imperata","cylindrica","var. major"
+"native","Poaceae","Microlaena","stipoides","var. stipoides"
+"native","Poaceae","Phragmites","australis",NA
+"native","Poaceae","Poa","poiformis",NA
+"native","Poaceae","Sporobolus","virginicus","var. minor"
+"native","Poaceae","Themeda","triandra",NA
+"native","Poaceae","Zoysia","macrantha",NA
+"native","Polygonaceae","Rumex","brownii",NA
+"native","Portulacaceae","Portulaca","oleracea",NA
+"native","Primulaceae","Samolus","repens",NA
+"native","Ranunculaceae","Ranunculus","amphitrichus",NA
+"native","Rutaceae","Correa","alba",NA
+"native","Scrophulariaceae","Limosella","australis",NA
+"native","Scrophulariaceae","Mimulus","repens",NA
+"native","Scrophulariaceae","Veronica","plebeia",NA
+"native","Sinopteridaceae","Cheilanthes","austrotenuifolia",NA
+"native","Sinopteridaceae","Pellaea","falcata","var. falcata"
+"native","Solanaceae","Solanum","americanum",NA
+"native","Solanaceae","Solanum","prinophyllum",NA
+"native","Solanaceae","Solanum","vescum",NA
+"native","Typhaceae","Typha","domingensis",NA
+"native","Urticaceae","Urtica","incisa",NA
+"intro","Alliaceae","Nothoscordum","borbonicum",NA
+"intro","Apiaceae","Hydrocotyle","bonariensis",NA
+"intro","Asteraceae","Conyza","bonariensis",NA
+"intro","Asteraceae","Delairea","odorata",NA
+"intro","Asteraceae","Dittrichia","graveolens",NA
+"intro","Asteraceae","Gamochaeta","pensylvanica",NA
+"intro","Asteraceae","Hypochoeris","radicata",NA
+"intro","Asteraceae","Sonchus","asper","subsp. glaucescens"
+"intro","Asteraceae","Sonchus","oleraceus",NA
+"intro","Basellaceae","Anredera","cordifolia",NA
+"intro","Brassicaceae","Cakile","maritima","subsp. maritima"
+"intro","Caryophyllaceae","Polycarpon","tetraphyllum",NA
+"intro","Caryophyllaceae","Sagina","procumbens",NA
+"intro","Caryophyllaceae","Stellaria","media",NA
+"intro","Chenopodiaceae","Atriplex","prostrata",NA
+"intro","Convolvulaceae","Ipomoea","cairica",NA
+"intro","Cucurbitaceae","Cucumis","myriocarpus","subsp. leptodermis"
+"intro","Euphorbiaceae","Euphorbia","paralias",NA
+"intro","Fabaceae","Dipogon","lignosus",NA
+"intro","Fabaceae","Trifolium","cernuum",NA
+"intro","Phytolaccaceae","Phytolacca","octandra",NA
+"intro","Poaceae","Bromus","catharticus",NA
+"intro","Poaceae","Cynodon","dactylon",NA
+"intro","Poaceae","Digitaria","ciliaris",NA
+"intro","Poaceae","Eleusine","indica",NA
+"intro","Poaceae","Lagurus","ovatus",NA
+"intro","Poaceae","Paspalum","dilatatum",NA
+"intro","Poaceae","Paspalum","distichum",NA
+"intro","Poaceae","Pennisetum","clandestinum",NA
+"intro","Poaceae","Poa","annua",NA
+"intro","Poaceae","Polypogon","monspeliensis",NA
+"intro","Poaceae","Sporobolus","indicus","var. capensis"
+"intro","Poaceae","Stenotaphrum","secundatum",NA
+"intro","Poaceae","Vulpia","bromoides",NA
+"intro","Poaceae","Vulpia","myuros",NA
+"intro","Polygonaceae","Acetosa","sagittata",NA
+"intro","Primulaceae","Anagallis","arvensis",NA
+"intro","Primulaceae","Solanum","chenopodioides",NA
+"intro","Primulaceae","Solanum","nigrum",NA
+"native.gone","Aizoaceae","Carpobrotus","glaucescens",NA
+"native.gone","Asclepidiaceae","Tylophora","barbata",NA
+"native.gone","Asteraceae","Cymbonotus","lawsonianus",NA
+"native.gone","Asteraceae","Gnaphalium","involucratum",NA
+"native.gone","Asteraceae","Senecio","biserratus",NA
+"native.gone","Chenopodiaceae","Chenopodium","carinatum",NA
+"native.gone","Chenopodiaceae","Chenopodium","pumilio",NA
+"native.gone","Chenopodiaceae","Salsola","kali",NA
+"native.gone","Epacridaceae","Leucopogon","parviflorus",NA
+"native.gone","Epacridaceae","Monotoca","elliptica",NA
+"native.gone","Fabaceae","Glycine","clandestina",NA
+"native.gone","Juncaceae","Juncus","planifolius",NA
+"native.gone","Oxalidaceae","Oxalis","thompsoniae",NA
+"native.gone","Oxalidaceae","Plantago","?debilis",NA
+"native.gone","Poaceae","Elymus","scaber",NA
+"native.gone","Poaceae","Dichelachne","crinita",NA
+"native.gone","Poaceae","Eragrostis","elongata",NA
+"native.gone","Poaceae","Poa","labillardieri",NA
+"native.gone","Poaceae","Sporobolus","diander",NA
+"native.gone","Poaceae","Sporobolus","elongatus",NA
+"native.gone","Portulacaceae","Calandrinia","eremaea",NA
+"native.gone","Proteaceae","Banksia","integrifolia",NA
+"native.gone","Scrophulariaceae","Veronica","calycina",NA
+"native.gone","Sinopteridaceae","Cheilanthes","sieberi","subsp. sieberi"
+"intro.gone","Amaranthaceae","Amaranthus","viridis",NA
+"intro.gone","Asteraceae","Aster","subulatus",NA
+"intro.gone","Asteraceae","Cirsium","vulgare",NA
+"intro.gone","Asteraceae","Gnaphalium","purpureum",NA
+"intro.gone","Asteraceae","Hypochoeris","glabra",NA
+"intro.gone","Asteraceae","Soliva","anthemifolia",NA
+"intro.gone","Asteraceae","Tagetes","minuta",NA
+"intro.gone","Asteraceae","Taraxacum","officinale",NA
+"intro.gone","Caryophyllaceae","Cerastium","glomeratum",NA
+"intro.gone","Caryophyllaceae","Paronychia","brasiliana",NA
+"intro.gone","Chenopodiaceae","Chenopodium","album",NA
+"intro.gone","Chenopodiaceae","Chenopodium","murale",NA
+"intro.gone","Fabaceae","Trifolium","glomeratum",NA
+"intro.gone","Fabaceae","Trifolium","repens",NA
+"intro.gone","Juncaceae","Juncus","effusus",NA
+"intro.gone","Malvaceae","Malva","parviflora",NA
+"intro.gone","Malvaceae","Modiola","caroliniana",NA
+"intro.gone","Oxalidaceae","Oxalis","debilis","var. corymbosa"
+"intro.gone","Papaveraceae","Argemone","ochroleuca","subsp. ochroleuca"
+"intro.gone","Poaceae","Aira","caryophyllea",NA
+"intro.gone","Poaceae","Briza","minor",NA
+"intro.gone","Poaceae","Holcus","lanatus",NA
+"intro.gone","Polygonaceae","Acetosella","vulgaris",NA
+"intro.gone","Polygonaceae","Rumex","crispus",NA
+"intro.gone","Rosaceae","Rubus","discolor",NA
+"intro.gone","Scrophulariaceae","Verbascum","virgatum",NA
+"intro.gone","Solanaceae","Lycium","ferocissimum",NA
+"intro.gone","Solanaceae","Solanum","sarrachoides",NA
+"intro.gone","Urticaceae","Urtica","urens",NA
