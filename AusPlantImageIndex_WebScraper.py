@@ -195,17 +195,3 @@ df.to_csv(base_dir + "photo_metadata.csv", index=False)
 
 print('Done')
     
-    	
-    	
-    	
-	
-	
-	
-
-
-
-
-
-
-
-
